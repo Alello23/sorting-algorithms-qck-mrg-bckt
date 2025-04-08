@@ -1,5 +1,5 @@
 # Sorting algorithms
-
+![Mi proyecto](assets/sorting-alg.png)
 Implementation of QuickSort, MergeSort and BucketSort sorting algorithms.
 
 **SPECIFICATIONS**
